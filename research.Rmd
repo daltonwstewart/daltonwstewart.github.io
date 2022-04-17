@@ -1,0 +1,10 @@
+---
+title: "Research"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My research current explores the influence of a biorefinery's location on its financial viability and the environmental impacts of the fuel it produces using techno-economic analysis (TEA) and life cycle assessment (LCA). I am working on finishing up my first manuscript so that I can post more about it here. You can read this [brief profile](https://cabbi.bio/dalton-stewart-economics-and-environment-both-vital-to-sustainability/) of my work that CABBI published back in 2020, and please refer to my [Google Scholar page](https://scholar.google.com/citations?user=w_vTjaIAAAAJ&hl=en&oi=ao) for the most up to date list of my publications.
