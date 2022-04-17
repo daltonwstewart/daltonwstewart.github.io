@@ -7,15 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
----
-title: "About Me"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 I am originally from New Bethlehem, Pennsylvania. I grew up on a farm surrounded by woods, and I think being so close to nature partially influenced my decision to pursue environmental engineering.
 
 <img src="files/farm.jpg" style="width:100%" align="center" vspace="50"> 
