@@ -1,0 +1,35 @@
+---
+title: "Dalton W. Stewart"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<img src="files/headshot.jpg" style="width:30%" align="right" hspace="50" vspace="50"> 
+
+$$\\[0.15in]$$
+
+
+## Education
+    
+* Ph.D. Environmental Engineering, University of Illinois Urbana-Champaign, 2025 (anticipated)
+* M.S. Environmental Engineering, University of Illinois Urbana-Champaign, 2021
+    + Energy and Sustainability Engineering Certificate
+* B.S. Environmental Engineering, Bucknell University, 2019
+    + Semester Abroad Spring 2018, Temple University Japan Campus
+  
+[Curriculum Vitae](files/DWStewart_CV_03.2022.pdf) (Current as of April 2022)
+  
+$$\\[0.2in]$$
+
+## Welcome to My Website!
+
+I am currently a Ph.D. student in Jeremy Guest's [research group](https://engineeringforsustainability.com/) at the University of Illinois Urbana-Champaign ([UIUC](https://cee.illinois.edu/)). I also did my Master's degree with Professor Guest at UIUC. My research is affiliated with the DOE Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio/)). I received my Bachelor's degree from [Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/civil-environmental-engineering), and am a registered Engineer in Training (E.I.T.) in the state of Pennsylvania. My contact information can be found at the top right of the navigation bar, feel free to reach out!
+
+$$\\[0.2in]$$
+
+## What am I working on right now?
+
+Right now I'm in the midst of finishing up my first first-author manuscript where I explore the influence of a biorefinery's location on its financial viability. I'm planning to present my work at the Association of Environmental Engineering and Science Professors (AEESP) Research and Education conference in June.

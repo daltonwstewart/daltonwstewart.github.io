@@ -1,0 +1,25 @@
+name: "dalton-website"
+output_dir: "."
+navbar:
+  title: "Dalton Stewart's Personal Website"
+  left:
+    - text: "Home"
+      href: index.html
+  #  - text: "Research"
+  #    href: research.html
+  #  - text: "About Me"
+   #   href: about.html
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<dalton.w.stewart@gmail.com>
+    - icon: fa-github fa-lg
+      href: https://github.com/dstew16/
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?user=w_vTjaIAAAAJ&hl=en&oi=ao
+  #  - icon: fa-twitter fa-lg
+   #   href: https://twitter.com/dalton4energy
+
+output:
+  html_document:
+  #  theme: cosmo
