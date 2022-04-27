@@ -7,4 +7,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-My current research explores the influence of a biorefinery's location on its financial viability and the environmental impacts of the fuel it produces using techno-economic analysis (TEA) and life cycle assessment (LCA). I am working on finishing up my first manuscript so that I can post more about it here. You can read this [brief profile](https://cabbi.bio/dalton-stewart-economics-and-environment-both-vital-to-sustainability/) of my work that CABBI published back in 2020, and please refer to my [Google Scholar page](https://scholar.google.com/citations?user=w_vTjaIAAAAJ&hl=en&oi=ao) for the most up to date list of my publications.
+## Current Research
+
+My current research explores the influence of a biorefinery's location on its financial viability and the environmental impacts of the fuel it produces using techno-economic analysis (TEA) and life cycle assessment (LCA). I am also interested in the evaluating the efficacy of government policy incentives via TEA and LCA and, in return, how the results of modeling can be used to inform the development of future public policy. I am working on finishing up my first manuscript so that I can post more about it here. You can read this [brief profile](https://cabbi.bio/dalton-stewart-economics-and-environment-both-vital-to-sustainability/) of my work that CABBI published back in 2020, and please refer to my [Google Scholar page](https://scholar.google.com/citations?user=w_vTjaIAAAAJ&hl=en&oi=ao) for the most up to date list of my publications.
+
+$$\\[0.2in]$$
+
+## Undergraduate Research
+
+As an undergraduate at Bucknell, I was very fortunate to work with [Deborah Sills](https://www.bucknell.edu/fac-staff/deborah-sills) on a research project where we investigated the distribution of manure from high-density poultry operations in southeastern Pennsylvania. My job was to contact local County Conservation Districts to get access to manure production records, then record the amounts and locations of manure production at various farms. We collaborated with researchers affiliated with the Geisinger Health System to find that people living closer to such poultry operations were at increased risk of contracting certain illnesses. If you want to read more about this work, please see [Poulsen et al. (2018a)](https://doi.org/10.1097/EE9.0000000000000013) and [Poulsen et al. (2018b)](https://doi.org/10.1016/j.ijheh.2017.12.005).
