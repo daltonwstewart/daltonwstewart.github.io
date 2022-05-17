@@ -26,12 +26,12 @@ $$\\[0.2in]$$
 
 ## Welcome to My Website!
 
-I am currently a Ph.D. student in [Jeremy Guest](https://cee.illinois.edu/directory/profile/jsguest)'s [research group](https://engineeringforsustainability.com/) at the University of Illinois Urbana-Champaign ([UIUC](https://cee.illinois.edu/)). I also did my Master's degree with Professor Guest at UIUC. My research is supported by the DOE Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio/)). I received my Bachelor's degree from [Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/civil-environmental-engineering), and am a registered Engineer in Training (E.I.T.) in the state of Pennsylvania. My contact information can be found at the top right of the navigation bar, feel free to reach out!
+I am currently a Ph.D. student in [Jeremy Guest](https://cee.illinois.edu/directory/profile/jsguest)'s [research group](https://engineeringforsustainability.com/) at the University of Illinois Urbana-Champaign ([UIUC](https://cee.illinois.edu/)). I also did my Master's degree with Professor Guest at UIUC. My research is supported by the Department of Energy Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio/)). I received my Bachelor's degree from [Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/civil-environmental-engineering), and am a registered Engineer in Training (E.I.T.) in the state of Pennsylvania. My contact information can be found at the top right of the navigation bar, feel free to reach out!
 
 $$\\[0.2in]$$
 
 ## What am I working on right now?
 
-Right now I'm in the midst of finishing up my first first-author manuscript where I explore the influence of a biorefinery's location on its financial viability. I'm planning to present my work at the Association of Environmental Engineering and Science Professors (AEESP) Research and Education conference in June.
+Right now I'm in the midst of finishing up my first first-author manuscript where I explore the influence of a biorefinery's location on its financial viability. I'm planning to present my work at the Association of Environmental Engineering and Science Professors (AEESP) Research and Education conference in June. I am also very fortunate to have been selected to participate in the [Policy and Research Legislative Fellowship](https://csbs.research.illinois.edu/research-engagement/policy-and-research-legislative-fellowship/) program at UIUC during summer 2022. More updates on that later!
 
 <img src="files/il.jpg" style="width:100%" align="center" vspace="50"> 
