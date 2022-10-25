@@ -26,12 +26,15 @@ $$\\[0.2in]$$
 
 ## Welcome to My Website!
 
-I am currently a Ph.D. student in [Dr. Jeremy Guest](https://cee.illinois.edu/directory/profile/jsguest)'s [research group](https://engineeringforsustainability.com/) at the University of Illinois Urbana-Champaign ([UIUC](https://cee.illinois.edu/)). I also did my Master's degree with Dr. Guest at UIUC. My research is supported by the Department of Energy Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio/)). I received my Bachelor's degree from [Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/civil-environmental-engineering), and am a registered Engineer in Training (E.I.T.) in the state of Pennsylvania. My contact information can be found at the top right of the navigation bar, feel free to reach out!
+I am currently a Ph.D. student in [Dr. Jeremy Guest](https://cee.illinois.edu/directory/profile/jsguest)'s [research group](https://engineeringforsustainability.com/) at the University of Illinois Urbana-Champaign ([UIUC](https://cee.illinois.edu/)). I also did my Master's degree with Dr. Guest at UIUC. My research is supported by the Department of Energy Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio/)). I received my Bachelor's degree from [Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/civil-environmental-engineering), and am a registered Engineer in Training (E.I.T.) in the Commonwealth of Pennsylvania. My contact information can be found at the top right of the navigation bar, feel free to reach out!
 
 $$\\[0.2in]$$
 
 ## What am I working on right now?
 
-I'm preparing to submit my first first-author manuscript where I explore the influence of a biorefinery's location on its financial viability. I've moved on to my next project, in which I will explore the sustainability of novel bioenergy crops. I am also very fortunate to be participating in the [Policy and Research Legislative Fellowship](https://csbs.research.illinois.edu/public-engagement/policy-research-legislative-fellows-program/) program at UIUC. I'm working on a research project with the Office of [Illinois State Senator Scott Bennett](https://www.ilga.gov/senate/Senator.asp?MemberID=2887) to evaluate the potential unintended consequences of the [Climate and Equitable Jobs Act](https://www2.illinois.gov/epa/topics/ceja/Pages/default.aspx) in Illinois. Take a look at my [Research](research.html) tab to learn more!
+I'm preparing to submit my first first-author manuscript where I explore the influence of a biorefinery's location on its financial viability. I'll be presenting this work at the Association for Public Policy Analysis & Management (APPAM) Fall Research Conference in Washington D.C. in November. I've moved on to my next project, in which I will explore the sustainability of novel bioenergy crops. I am also very fortunate to be participating in the [Policy and Research Legislative Fellowship](https://csbs.research.illinois.edu/public-engagement/policy-research-legislative-fellows-program/) program at UIUC. I'm working on a research project with the Office of [Illinois State Senator Scott Bennett](https://www.ilga.gov/senate/Senator.asp?MemberID=2887) to evaluate the potential unintended consequences of the [Climate and Equitable Jobs Act](https://www2.illinois.gov/epa/topics/ceja/Pages/default.aspx) in Illinois. Take a look at my [Research](research.html) tab to learn more!
 
-<img src="files/il.jpg" style="width:100%" align="center" vspace="50"> 
+$$\\[0.2in]$$
+
+<img src="files/il.jpg" style="width:100%" align="center" vspace="10"> 
+*My current landscape: central Illinois.*

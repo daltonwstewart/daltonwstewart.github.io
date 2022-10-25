@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-I am originally from New Bethlehem, Pennsylvania. I grew up on a farm surrounded by woods, and I think being so close to nature partially influenced my decision to pursue environmental engineering.
+I am originally from New Bethlehem, Pennsylvania. I grew up on a farm surrounded by woods, and I think being so close to nature influenced my decision to pursue environmental engineering. I wrote my college admission essay about walking through the woods during a fall rain - my favorite weather - and I've carried my love for nature throughout my career path.
 
 <img src="files/farm.jpg" style="width:100%" align="center" vspace="50"> 
 
