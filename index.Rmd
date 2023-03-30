@@ -46,3 +46,5 @@ $$\\[0.2in]$$
 
 <img src="files/il.jpg" style="width:100%" align="center" vspace="10"> 
 *My current landscape: central Illinois.*
+
+$$\\[0.2in]$$
